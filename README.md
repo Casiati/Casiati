@@ -5,6 +5,10 @@
 - 🤔 I’m looking for help with Firebase <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
 
-![Casiati GitHub stats](https://github-readme-stats.vercel.app/api?username=Casiati&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Casiati&layout=compact&theme=dark)](https://github.com/Casiati/github-readme-stats) 
+<div align="center">
+  <a href="https://github.com/Casiati">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Casiati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casiati&layout=compact&langs_count=4&theme=dark"/>
+</div>
 
  ![Snake animation](https://github.com/Casiati/Casiati/blob/output/github-contribution-grid-snake.svg)
