@@ -1,4 +1,4 @@
-### Olá sou o Lucas Robiati 👋
+### Olá sou o Lucas Robiati 👋, explorando o mundo da programação atraves do Dart/Flutter!
 
 
 - 🌱 I’m currently learning Dart/Flutter <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
