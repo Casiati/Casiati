@@ -4,7 +4,6 @@
 
 
 - 🌱 I’m currently learning Dart/Flutter <a href="https://dart.dev/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" target="_blank"/></a> <a href="https://flutter.dev/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" target="_blank"/></a>
-- 🤔 I’m looking for help with Firebase <a href="https://firebase.google.com/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" target="_blank"/></a>
 
 <br>
 
