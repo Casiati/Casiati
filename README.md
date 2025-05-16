@@ -1,17 +1,55 @@
-### Olá sou o Lucas Robiati 👋, explorando o mundo da programação atraves do Dart/Flutter!
 
-<br>
+# Olá, sou Lucas Robiati (Casiati) 👋
 
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, com foco em Flutter e soluções fullstack. Aqui compartilho projetos pessoais e colaborativos, sempre em busca de aprendizado contínuo e boas práticas de desenvolvimento.
 
-- 🌱 I’m currently learning Dart/Flutter <a href="https://dart.dev/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" target="_blank"/></a> <a href="https://flutter.dev/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" target="_blank"/></a>
+## 🚀 Sobre Mim
 
-<br>
+- 💻 Desenvolvedor Flutter/Dart com interesse em soluções fullstack
+- ☁️ Experiência com serviços AWS
+- 🧠 Curioso por arquitetura de software, automações e boas práticas
+- 📍 Limeira, SP - Brasil
 
-<div align="center">
-  <a href="https://github.com/Casiati">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Casiati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casiati&layout=compact&langs_count=4&theme=dark&count_private=true"/>
-</div>
-<br><br>
-  
- ![Snake animation](https://github.com/Casiati/Casiati/blob/output/github-contribution-grid-snake.svg)
+## 🛠️ Tecnologias que utilizo
+
+- **Front-end**: Flutter, React.js
+- **Back-end**: Node.js, Express
+- **DevOps & Cloud**: AWS
+- **Observabilidade**: Datadog, Grafana, Prometheus 
+- **Outros**: Git, GitHub Actions, Figma, Postman
+
+## 🔥 Projetos em Destaque
+
+### 🧪 [Spoofing-test](https://github.com/epicestudar/Spoofing-test)
+
+Projeto colaborativo voltado a testes de spoofing de e-mail, utilizando Node.js, React, AWS CLI, SAM, Lambda e outros serviços cloud. Foco em segurança e arquitetura distribuída.
+
+### 🎯 [my-portfolio](https://github.com/Casiati/my-portfolio)
+
+Portfólio pessoal com detalhes sobre minha carreira e projetos. Acesse online: [casiati.github.io](https://casiati.github.io)
+
+### 🏦 [nubank_clone](https://github.com/Casiati/nubank_clone)
+
+Clone do app Nubank feito em Flutter, ideal para estudos de UI e navegação.
+
+### 🎬 [onde_assistir](https://github.com/Casiati/onde_assistir)
+
+App que ajuda usuários a encontrar onde assistir filmes/séries, feito em Flutter.
+
+### 🔐 [flutter_login_app](https://github.com/Casiati/flutter_login_app)
+
+Aplicativo de login simples com Flutter, voltado para prática de autenticação.
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Casiati&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Casiati&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Vamos nos conectar
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-robiati-129795133)
+- [Portfólio](https://casiati.github.io)
+
