@@ -46,7 +46,7 @@ Profissional focado em **DevOps, Cloud e Automação de Infraestrutura**, gradua
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Casiati">
+  <a href="#" style="pointer-events: none; cursor: default;">
     <img src="https://streak-stats.demolab.com?user=Casiati&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
   </a>
 </div>
@@ -54,7 +54,7 @@ Profissional focado em **DevOps, Cloud e Automação de Infraestrutura**, gradua
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Casiati">
+  <a href="#" style="pointer-events: none; cursor: default;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Casiati&theme=tokyonight" alt="GitHub Profile Details" />
   </a>
 </div>
