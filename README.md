@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descFontSize=20&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
+  <a href="javascript:void(0)" style="pointer-events: none; cursor: default;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descFontSize=20&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
+  </a>
 </div>
 
 <div align="center">
@@ -43,13 +45,17 @@ Engenheiro focado em **DevOps, Cloud e Automação de Infraestrutura**. Com back
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Casiati&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <a href="javascript:void(0)" style="pointer-events: none; cursor: default;">
+    <img src="https://streak-stats.demolab.com?user=Casiati&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Casiati&theme=tokyonight" alt="GitHub Profile Details" />
+  <a href="javascript:void(0)" style="pointer-events: none; cursor: default;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Casiati&theme=tokyonight" alt="GitHub Profile Details" />
+  </a>
 </div>
 
 ---
