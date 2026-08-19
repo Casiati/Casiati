@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descFontSize=20&descAlignY=62&descColor=38bdf8" width="100%"/>
+  <a href="https://www.linkedin.com/in/lucas-robiati-129795133/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descFontSize=20&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
+  </a>
 </div>
 
 <div align="center">
@@ -43,14 +45,19 @@ Engenheiro focado em **DevOps, Cloud e Automação de Infraestrutura**. Com back
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Casiati&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Lucas Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casiati&layout=compact&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Lucas Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Casiati&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Casiati&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Casiati&theme=tokyonight" alt="GitHub Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Casiati&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
