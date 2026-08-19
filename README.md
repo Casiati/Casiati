@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Casiati">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descFontSize=20&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%26%20Infrastructure%20Automation&descFontSize=19&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
   </a>
 </div>
 
@@ -14,14 +14,15 @@
 
 ### 👨‍💻 Sobre Mim
 
-Engenheiro focado em **DevOps, Cloud e Automação de Infraestrutura**. Com background prévio em desenvolvimento de software, atuo desenhando e mantendo ambientes resilientes, escaláveis e seguros, acelerando o ciclo de entrega através de automações robustas e práticas de SRE.
+Profissional focado em **DevOps, Cloud e Automação de Infraestrutura**, graduando em **Análise e Desenvolvimento de Sistemas (ADS)**. Com experiência prévia em desenvolvimento de software, atuo desenhando e mantendo ambientes resilientes, escaláveis e seguros, otimizando o ciclo de entrega através de automações robustas e boas práticas de SRE.
 
-- ☁️ **Cloud Computing**: Arquiteturas seguras e distribuídas com foco em AWS.
-- ⚙️ **Infraestrutura como Código (IaC)**: Provisionamento modular e determinístico com Terraform / OpenTofu.
-- 📦 **Containers & Orquestração**: Docker, Kubernetes e ecossistema CNCF (Helm, ArgoCD).
-- 🔄 **CI/CD & DevSecOps**: Pipelines automatizados de entrega contínua com verificações de qualidade e segurança.
-- 📊 **Observabilidade**: Monitoramento proativo com métricas, logs e tracing (Datadog, Prometheus, Grafana).
-- 📍 **Localização**: Limeira, SP - Brasil
+- 🎓 **Formação**: Cursando Análise e Desenvolvimento de Sistemas (ADS)
+- ☁️ **Cloud Computing**: Arquiteturas seguras e distribuídas com foco em AWS
+- ⚙️ **Infraestrutura como Código (IaC)**: Provisionamento modular e determinístico com Terraform / OpenTofu
+- 📦 **Containers & Orquestração**: Docker, Kubernetes e ecossistema CNCF (Helm, ArgoCD)
+- 🔄 **CI/CD & DevSecOps**: Pipelines automatizados de entrega contínua com verificações de qualidade e segurança
+- 📊 **Observabilidade**: Monitoramento proativo com métricas, logs e tracing (Datadog, Prometheus, Grafana)
+- 📍 **Localização**: Taquaritinga, SP - Brasil
 
 ---
 
