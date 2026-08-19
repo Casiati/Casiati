@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Casiati">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%26%20Infrastructure%20Automation&descFontSize=19&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
+  <a href="#" style="pointer-events: none; cursor: default;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Lucas%20Robiati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descFontSize=20&descAlignY=62&descColor=38bdf8" width="100%" alt="Lucas Robiati Banner"/>
   </a>
 </div>
 
