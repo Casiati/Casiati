@@ -54,12 +54,6 @@ Engenheiro focado em **DevOps, Cloud e Automação de Infraestrutura**. Com back
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Casiati&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Casiati&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div align="center">
